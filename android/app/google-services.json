@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "702121823463",
+    "firebase_url": "https://ecommerce-e6d2d.firebaseio.com",
+    "project_id": "ecommerce-e6d2d",
+    "storage_bucket": "ecommerce-e6d2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702121823463:android:14827daf2eae678e4fa642",
+        "android_client_info": {
+          "package_name": "com.mahmoudabkareno.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702121823463-hvuc76b6li2t935ct0vf19orcb9pjpb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCoNxQ_irCEy24V1Fcad8yf_URCdjMJrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702121823463-hvuc76b6li2t935ct0vf19orcb9pjpb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
